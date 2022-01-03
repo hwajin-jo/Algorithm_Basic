@@ -47,10 +47,10 @@ public class day1 {
 //    }
 
 // no 10.
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int num = sc.nextInt();
-        System.out.print(num);
-    }
+//     public static void main(String[] args) {
+//         Scanner sc = new Scanner(System.in);
+//         int num = sc.nextInt();
+//         System.out.print(num);
+//     }
 }
 
