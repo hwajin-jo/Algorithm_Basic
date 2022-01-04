@@ -70,15 +70,15 @@ public class day2 {
 //    }
 
 // no. 20
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String str;
-        String[] a;
-        str = sc.nextLine();
-        a = str.split("\\-");
+//     public static void main(String[] args) {
+//         Scanner sc = new Scanner(System.in);
+//         String str;
+//         String[] a;
+//         str = sc.nextLine();
+//         a = str.split("\\-");
 
-        String a1 = String.valueOf(a[0]);
-        String a2 = String.valueOf(a[1]);
-        System.out.print(a1+a2);
-    }
+//         String a1 = String.valueOf(a[0]);
+//         String a2 = String.valueOf(a[1]);
+//         System.out.print(a1+a2);
+//     }
 }
